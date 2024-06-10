@@ -1,0 +1,112 @@
+{
+  "projects": [
+    {
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "name": "League of Legends",
+      "budget": "5000",
+      "cost": 700,
+      "services": [
+        {
+          "name": "Serviço 1",
+          "cost": "100",
+          "description": "Ser 1",
+          "id": "1a9eab6b-1ffe-492e-a84c-a16ed2dea86a"
+        },
+        {
+          "name": "Serviço 2",
+          "cost": "200",
+          "description": "Um novo serviçoxD",
+          "id": "3f4ed154-6658-45ab-9c2b-6e0bf697a125"
+        },
+        {
+          "name": "Serviço 2",
+          "cost": "200",
+          "description": "Um novo serviçoxD",
+          "id": "3f4ed154-6658-45ab-9c2b-6e0bf697a125"
+        },
+        {
+          "name": "Serviço 2",
+          "cost": "200",
+          "description": "Um novo serviçoxD",
+          "id": "3f4ed154-6658-45ab-9c2b-6e0bf697a125"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "Projeto 2",
+      "budget": "30000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 200,
+      "services": [
+        {
+          "name": "Serv 1",
+          "cost": "200",
+          "description": "Descrição do serviço",
+          "id": "ba9eea33-db73-479d-8df7-189d86869b05"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "Projeto Simon",
+      "budget": "10000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 100,
+      "services": [
+        {
+          "name": "Cadastrar nomes em Python",
+          "description": "Sem remuneração! Apenas aprendizado",
+          "cost": "100",
+          "id": "bd660548-e0d7-4e5e-8642-2da733a4b13d"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "name": "Natalia GRATIDAO",
+      "budget": "1000000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 3000,
+      "services": [
+        {
+          "name": "Fiscal",
+          "cost": "3000",
+          "description": "La la la",
+          "id": "7e638e68-82b5-4dfb-a8bb-c00333feeb19"
+        }
+      ],
+      "id": 8
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
